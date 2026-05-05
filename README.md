@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://ahmed-mansy-mansico.github.io/My-Portfolio/">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/ahmedmansymansico/">💼 LinkedIn</a> ·
-  <a href="https://www.youtube.com/@mansyacademy">▶️ YouTube</a> ·
+  <a href="https://www.youtube.com/@mansicoacademy">▶️ YouTube</a> ·
   <a href="mailto:ahmedmansy265@gmail.com">📫 Email</a>
 </p>
 
@@ -28,7 +28,6 @@ I'm a **Senior ERPNext / Frappe Developer & Consultant** with deep, hands-on exp
 - 🚢 Delivered an end-to-end **Ship Agency & Port Agency ERP** with complex operational + accounting workflows.
 - 📡 Built a complete **Tracking & Device Operations Platform** (technician dispatch, WhatsApp integration, middleware provisioning).
 - ⚡ Optimize ERPNext for **millions of records** — query tuning, indexing, caching, scaling.
-- 🌍 Currently consulting remotely for clients across **Egypt, KSA, and Iraq**.
 
 ---
 
@@ -39,9 +38,7 @@ I'm a **Senior ERPNext / Frappe Developer & Consultant** with deep, hands-on exp
 | **[mansico_meta_integration](https://github.com/Ahmed-Mansy-Mansico/mansico_meta_integration)** | Open-source ERPNext app syncing **Facebook/Meta Leads → ERPNext**. ⭐ 18+ stars | Author |
 | **[Lavaloon `ksa_compliance`](https://github.com/lavaloon-eg/ksa_compliance)** | The leading **Saudi ZATCA / KSA E-Invoicing** app for ERPNext | Contributor |
 | **Egypt E-Invoicing Integration** | Integrated ERPNext with Egypt's E-Invoicing portal for full legal compliance | Contributor |
-| **ERPNext UI Refactor** | Contributed to a major UI overhaul with new features while maintaining stability | Contributor |
-| **[Covid_test_app](https://github.com/Ahmed-Mansy-Mansico/Covid_test_app)** | Email-scraping + SMS automation pipeline for real-time COVID-19 results (went live during the pandemic) | Author |
-| **[Mansy Academy](https://www.youtube.com/@mansyacademy)** | YouTube channel — **1.16K+ subscribers, 118+ videos** on Frappe, ERPNext, Python, SQL & networking | Creator |
+| **[Mansy Academy](https://www.youtube.com/@mansicoacademy)** | YouTube channel — **1.16K+ subscribers, 118+ videos** on Frappe, ERPNext, Python, SQL & networking | Creator |
 
 ---
 
