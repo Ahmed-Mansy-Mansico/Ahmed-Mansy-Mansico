@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://ahmed-mansy-mansico.github.io/My-Portfolio/">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/ahmedmansymansico/">💼 LinkedIn</a> ·
-  <a href="https://www.youtube.com/@mansicoacademy">▶️ YouTube</a> ·
+  <a href="https://www.youtube.com/@mansiqoacademy">▶️ YouTube</a> ·
   <a href="mailto:ahmedmansy265@gmail.com">📫 Email</a>
 </p>
 
